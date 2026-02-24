@@ -16,4 +16,3 @@ I am technically skilled professional with hands-on experience in developing web
 [![](https://visitcount.itsvg.in/api?id=arieljuly&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 > SAMPLE !</h1 >
